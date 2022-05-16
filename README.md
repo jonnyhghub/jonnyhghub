@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Jonny
 - 👀 I’m interested in and am currently studying data science
-- This is where I store some personal projects as a portfoli
+- This is where I store some personal projects as a portfolio
+- Welcome!
