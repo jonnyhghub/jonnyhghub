@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jonnyhghub
 - 👀 I’m interested in and am currently studying data science
-- This is where I store personal projects like a portfolio
+- This is where I store some personal projects as a portfolio
 - Welcome to my repository!
