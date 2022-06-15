@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jonny
-- 👀 I’m interested in and am currently studying data science
+- 👀 I work in data and am currently studying data science and machine learning
 - This is where I store some personal projects as a portfolio
 - Welcome!
